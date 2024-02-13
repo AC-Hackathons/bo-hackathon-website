@@ -39,24 +39,18 @@ The progress of a scientific field is both tracked and propelled through robust 
 {{ site.event_date }}, open to researchers, to select or develop Bayesian optimization algorithms and apply them to benchmarking tasks. After the hackathon, results will be collated and presented in a scholarly article (see co-authorship criteria below). Come join us to explore, collaborate, innovate, and contribute to the advancement of Bayesian optimization for the physical sciences.
 
 Researchers can sign up to [topics ranging from]({{ site.baseurl }}{% link projects.md %})
-application of algorithms to development of new benchmark tasks, and creating instructional tutorials. Teams will be led by senior academics from a range of
-disciplines at the University of Bristol, but participating researchers can be
-from any UK academic institution. [This opportunity]({{ site.baseurl }}{% link registration.md %})
-is open to early career researchers[<sup>(?)</sup>][faq]{:title="What do we mean by an Early Career Researcher (ECR)?"}.
-
-Participation is open to **researchers from any UK academic institution**, and
-we encourage contributions from **early career researchers**[<sup>(?)</sup>][faq]{:title="What do we mean by an Early Career Researcher (ECR)?"},
-including PhDs and Postdocs.
+application of algorithms to development of new benchmark tasks, and creating instructional tutorials. [This opportunity]({{ site.baseurl }}{% link registration.md %})
+is open to researchers at all levels who are interested in applying Bayesian optimization[<sup>(?)</sup>][faq]{:title="Do I need to use a specific tool or package?"} for accelerated discovery in chemistry and materials science. At minimum, we recommend beginner-to-intermediate Python programming experience and basic familiarity with git and GitHub.[<sup>(?)</sup>][faq]{:title="What are the recommended prerequisites for participation?"}.
 
 ## Logistics
 
 The event will take place virtually, using a combination of **video
 conferencing** (Zoom) for meetings and seminars, and **discussion forums**
-(Slack) for ongoing comms. Data holding and analysis will take place on...
+(Slack, Discord) for ongoing comms. Data holding and analysis will take place on...
 
 ## Outputs
 
-By the end of the event, we hope to...
+By the end of the event, we hope to 
 
 [faq]: {{ site.baseurl }}{% link faq.md %}
 
@@ -75,3 +69,8 @@ The event took place virtually, using a combination of **video conferencing**
 comms. Data holding and analysis took place on...
 
 {% endif %}
+
+## Sponsors 
+
+- [The Acceleration Consortium @ University of Toronto](https://acceleration.utoronto.ca/)
+- [Merck KGaA](https://www.emdgroup.com/en)

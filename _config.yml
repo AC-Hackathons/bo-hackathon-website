@@ -1,20 +1,19 @@
-title: Template Hackathon
-nav_title: Template Hack<span class="hide-very-narrow">athon</span><br><small><span class="hide-very-narrow">with</span> University of Bristol</small>
+title: Bayesian Optimization (BO) Hackathon for Chemistry and Materials
+nav_title: BO Hackathon<span class="hide-very-narrow">athon</span><br><small><span class="hide-very-narrow">with</span> University of Bristol</small>
 
-event_date: 2–4 June 2021
-registration_opens_date: 17 March 2021
-registration_closes_date: 16 April 2021
+event_date: 28-29 March 2024
+registration_opens_date: 1 March 2024
+registration_closes_date: 28 March 2024
 
-author: University of Bristol Jean Golding Institute
-mailbox_address: ...@bristol.ac.uk
+author: Acceleration Consortium
+mailbox_address: sterling.baird@utoronto.ca
 
 description:
-  The Template Hackathon is a X-day hackathon event, organised by the University
-  of Bristol’s Jean Golding Institute. Over the course of the event, teams of
-  researchers will...
+  The BO Hackathon is a 2-day virtual event, organized by the Acceleration Consortium @ University of Toronto. Over the course of the event, teams of
+  researchers will select a benchmark task and use a Bayesian optimization package and algorithm of their choice. After the hackathon, results will be collated and presented in a scholarly article. Come join us to explore, collaborate, innovate, and contribute to the advancement of Bayesian optimization for the physical sciences.
 
-url: "https://jgibristol.github.io/hackathon-template"
-github_repo: jgibristol
+url: "https://ac-bo-hackathon.github.io/"
+github_repo: AC-BO-Hackathon
 
 theme: minima
 

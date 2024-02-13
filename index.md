@@ -1,23 +1,12 @@
 ---
 layout: page
-title: Template Hackathon
+title: BO Hackathon for Chemistry and Materials
 menu_title: Home
 menu_icon: house-door
 ---
 
 {:.secondary}
-# {{ site.event_date }}, in association with the University of Bristol
-
-<!-- REMOVE THIS SECTION when you use this template -->
-<div class="lead" markdown="1">
-This is a demo of the template repository for a public-facing hackathon website,
-built by the [Jean Golding Institute](https://www.bristol.ac.uk/golding/) at the
-University of Bristol.
-
-For more information: view the [README](https://github.com/jgibristol/hackathon-template/blob/main/README.md) 
-or the [GitHub repository](https://github.com/jgibristol/hackathon-template).
-</div>
-<!-- END of section to remove -->
+# {{ site.event_date }}, in association with the Acceleration Consortium
 
 <div class="aside">
     <h2><i class="bi bi-calendar3"></i> Event timeline</h2>
@@ -46,11 +35,11 @@ or the [GitHub repository](https://github.com/jgibristol/hackathon-template).
 
 {% if site.event_status != "over" %}
 
-Scientists from the University of Bristol are hosting a X-day hackathon on
-{{ site.event_date }}, open to researchers, to...
+The progress of a scientific field is both tracked and propelled through robust benchmarks. With the emergence of new [Bayesian optimization](https://chat.openai.com/share/ac610758-2ac8-4b38-8dd5-25e6c46ad2a6) tools applied or geared towards the physical sciences, it is important to understand its strengths and weaknesses relative to the state of the art. In this hackathon, we will put these tools to the test! Scientists from the Acceleration Consortium @ University of Toronto are hosting a 2-day hackathon on
+{{ site.event_date }}, open to researchers, to select or develop Bayesian optimization algorithms and apply them to benchmarking tasks. After the hackathon, results will be collated and presented in a scholarly article (see co-authorship criteria below). Come join us to explore, collaborate, innovate, and contribute to the advancement of Bayesian optimization for the physical sciences.
 
 Researchers can sign up to [topics ranging from]({{ site.baseurl }}{% link projects.md %})
-... to ..., and more. Teams will be led by senior academics from a range of
+application of algorithms to development of new benchmark tasks, and creating instructional tutorials. Teams will be led by senior academics from a range of
 disciplines at the University of Bristol, but participating researchers can be
 from any UK academic institution. [This opportunity]({{ site.baseurl }}{% link registration.md %})
 is open to early career researchers[<sup>(?)</sup>][faq]{:title="What do we mean by an Early Career Researcher (ECR)?"}.
